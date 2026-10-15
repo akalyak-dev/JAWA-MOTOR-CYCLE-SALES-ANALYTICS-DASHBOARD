@@ -46,6 +46,9 @@ Designed an interactive Power BI dashboard featuring:
 - Category-wise Sales Analysis
 - Interactive Slicers for filtering data
 
+
+![JAWA Motorcycle Sales Analytics Dashboard](jawa-dashboard.png)
+
 ### Visuals Used:
 
 - Bar Charts and Column Charts
