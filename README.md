@@ -4,6 +4,10 @@
 
 This project focuses on building an interactive Power BI dashboard to analyze JAWA Motorcycle sales performance, revenue trends, product performance, and sales patterns. The goal is to transform sales data into meaningful business insights and support data-driven decision-making.
 
+# 🎯 Project Objective
+
+To develop an interactive sales analytics dashboard that converts raw JAWA Motorcycle sales data into meaningful insights for monitoring performance and supporting business decisions.
+
 # 📂 Project Steps
 
 # 1️⃣ Data Collection
@@ -81,6 +85,3 @@ Designed an interactive Power BI dashboard featuring:
 - Data Visualization
 - Business Intelligence
 
-# 🎯 Project Objective
-
-To develop an interactive sales analytics dashboard that converts raw JAWA Motorcycle sales data into meaningful insights for monitoring performance and supporting business decisions.
